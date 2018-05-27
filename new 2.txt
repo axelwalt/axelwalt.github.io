@@ -1,0 +1,127 @@
+<div class="item">
+                   <div class="slider-overlay"></div>
+                    <img src="images/slide-one-02.jpg" alt="Slider One Image">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 slider-content">
+                                <div class="slider-content-inner">
+                                    <h2></h2>
+                                    <h1 class="delay1"></h1>
+                                    <p class="delay3"></p>
+                                    <div class="slider-button delay4">
+                                      <!--    <a href="#" class="green-button button-hover-one"></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                   <div class="slider-overlay"></div>
+                    <img src="images/slide-one-03.jpg" alt="Slider One Image">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 slider-content">
+                                <div class="slider-content-inner">
+                                    <h2></h2>
+                                    <h1 class="delay1"></h1>
+                                    <p class="delay3"></p>
+                                    <div class="slider-button delay4">
+                                       <!-- <a href="#" class="green-button button-hover-one"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<div class="item active">
+                   <div class="slider-overlay"></div>
+                    <img src="images/slide-one-04.jpg" alt="Slider One Image">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 slider-content">
+                                <div class="slider-content-inner">
+                                    <h2></h2>
+                                    <h1 class="delay1"></h1>
+                                    <p class="delay3"></p>
+                                    <div class="slider-button delay4">
+                                   <!--       <a href="#" class="green-button button-hover-one"></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<div class="item active">
+                   <div class="slider-overlay"></div>
+                    <img src="images/slide-one-05.jpg" alt="Slider One Image">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 slider-content">
+                                <div class="slider-content-inner">
+                                    <h2></h2>
+                                    <h1 class="delay1"></h1>
+                                    <p class="delay3"></p>
+                                    <div class="slider-button delay4">
+                                   <!--       <a href="#" class="green-button button-hover-one"></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<div class="item active">
+                   <div class="slider-overlay"></div>
+                    <img src="images/slide-one-06.jpg" alt="Slider One Image">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 slider-content">
+                                <div class="slider-content-inner">
+                                    <h2></h2>
+                                    <h1 class="delay1"></h1>
+                                    <p class="delay3"></p>
+                                    <div class="slider-button delay4">
+                                   <!--       <a href="#" class="green-button button-hover-one"></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<div class="item active">
+                   <div class="slider-overlay"></div>
+                    <img src="images/slide-one-07.jpg" alt="Slider One Image">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 slider-content">
+                                <div class="slider-content-inner">
+                                    <h2></h2>
+                                    <h1 class="delay1"></h1>
+                                    <p class="delay3"></p>
+                                    <div class="slider-button delay4">
+                                   <!--       <a href="#" class="green-button button-hover-one"></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<div class="item active">
+				
+				<div class="slider-overlay"></div>
+                    <img src="images/slide-one-08.jpg" alt="Slider One Image">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-12 slider-content">
+                                <div class="slider-content-inner">
+                                    <h2></h2>
+                                    <h1 class="delay1"></h1>
+                                    <p class="delay3"></p>
+                                    <div class="slider-button delay4">
+                                   <!--       <a href="#" class="green-button button-hover-one"></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
